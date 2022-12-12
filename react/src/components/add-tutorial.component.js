@@ -78,6 +78,7 @@ export default class AddTutorial extends Component {
         ) : (
           <div>
             <div className="form-group">
+            <h4>Create Data</h4>
               <label htmlFor="title">Title</label>
               <input
                 type="text"
